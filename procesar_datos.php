@@ -125,4 +125,7 @@ if ($conn->query($sql) === TRUE) {
 }
 // Cerrar la conexión a la base de datos
 $conn->close();
+
+// Esta linea de código es agregada como prueba para el desarrollo de la S8
 ?>
+
